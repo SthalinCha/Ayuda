@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>REGLAS.pdf</file>
+        <file>Oca.pdf</file>
+    </qresource>
+</RCC>
